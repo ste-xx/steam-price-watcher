@@ -25,7 +25,7 @@ jobs:
               { "productId": "56714", "label": "Solasta" }
             ]
         id: price
-      - run: cat ${{ steps.price.outputs.tsv }} > report.tsv
+      - run: echo ${{ steps.price.outputs.tsv }} > report.tsv
       - uses: EndBug/add-and-commit@v9
         with:
           add: report.tsv
