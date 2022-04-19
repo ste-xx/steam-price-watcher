@@ -14,16 +14,16 @@ jobs:
       - uses: ste-xx/steam-price-action@master
         with:
           input: | 
-          [
-            { "productId": "70843", "label": "Disciples Liberation" },
-            { "productId": "45401", "label": "Pathfinder: Wrath of the Righteous" },
-            { "productId": "25751", "label": "Gloomhaven" },
-            { "productId": "104326", "label": "Heros hour" },
-            { "productId": "84981", "label": "Wartales" },
-            { "productId": "71707", "label": "Weird West" },
-            { "productId": "41446", "label": "The Dungeon Of Naheulbeuk" },
-            { "productId": "56714", "label": "Solasta" }
-          ]
+            [
+              { "productId": "70843", "label": "Disciples Liberation" },
+              { "productId": "45401", "label": "Pathfinder: Wrath of the Righteous" },
+              { "productId": "25751", "label": "Gloomhaven" },
+              { "productId": "104326", "label": "Heros hour" },
+              { "productId": "84981", "label": "Wartales" },
+              { "productId": "71707", "label": "Weird West" },
+              { "productId": "41446", "label": "The Dungeon Of Naheulbeuk" },
+              { "productId": "56714", "label": "Solasta" }
+            ]
         id: price
       - run: cat ${{ steps.price.outputs.tsv }} > report.tsv
       - uses: EndBug/add-and-commit@v9
