@@ -7,7 +7,7 @@ on:
   push:
 
 jobs:
-  create_report:
+  report:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,7 +25,6 @@ jobs:
               { "productId": "56714", "label": "Solasta" }
             ]
         id: price
-      - run: echo "${{ steps.price.outputs.json }}"
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
       - uses: EndBug/add-and-commit@v9
         with:
