@@ -22,7 +22,8 @@ jobs:
               { "productId": "84981", "label": "Wartales" },
               { "productId": "71707", "label": "Weird West" },
               { "productId": "41446", "label": "The Dungeon Of Naheulbeuk" },
-              { "productId": "56714", "label": "Solasta" }
+              { "productId": "56714", "label": "Solasta" },
+              { "productId": "29228", "label": "Song of Conquest" }
             ]
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
