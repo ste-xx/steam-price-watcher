@@ -23,7 +23,8 @@ jobs:
               { "productId": "71707", "label": "Weird West" },
               { "productId": "41446", "label": "The Dungeon Of Naheulbeuk" },
               { "productId": "56714", "label": "Solasta" },
-              { "productId": "29228", "label": "Song of Conquest" }
+              { "productId": "29228", "label": "Song of Conquest" },
+              { "productId": "62170", "label": "King Arthur"}
             ]
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
