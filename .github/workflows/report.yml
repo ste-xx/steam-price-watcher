@@ -24,7 +24,8 @@ jobs:
               { "productId": "41446", "label": "The Dungeon Of Naheulbeuk" },
               { "productId": "56714", "label": "Solasta" },
               { "productId": "29228", "label": "Song of Conquest" },
-              { "productId": "62170", "label": "King Arthur"}
+              { "productId": "62170", "label": "King Arthur"},
+              { "productId": "110185", "label: "Hard West 2"}
             ]
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
