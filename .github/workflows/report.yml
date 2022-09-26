@@ -17,7 +17,6 @@ jobs:
             [
               { "productId": "70843", "label": "Disciples Liberation" },
               { "productId": "45401", "label": "Pathfinder: Wrath of the Righteous" },
-              { "productId": "25751", "label": "Gloomhaven" },
               { "productId": "104326", "label": "Heros hour" },
               { "productId": "84981", "label": "Wartales" },
               { "productId": "71707", "label": "Weird West" },
