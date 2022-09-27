@@ -23,6 +23,7 @@ jobs:
               { "productId": "29228", "label": "Song of Conquest" },
               { "productId": "62170", "label": "King Arthur"},
               { "productId": "55450", "label": "The Iron Oath"},
+              { "productId": "48637", "label": "The last spell"},
               { "productId": "71707", "label": "Weird West" },
               { "productId": "110185", "label": "Hard West 2"}
             ]
