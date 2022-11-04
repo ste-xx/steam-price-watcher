@@ -15,7 +15,6 @@ jobs:
         with:
           input: | 
             [
-              { "productId": "70843", "label": "Disciples Liberation" },
               { "productId": "45401", "label": "Pathfinder: Wrath of the Righteous" },
               { "productId": "104326", "label": "Heros hour" },
               { "productId": "84981", "label": "Wartales" },
@@ -25,7 +24,8 @@ jobs:
               { "productId": "55450", "label": "The Iron Oath"},
               { "productId": "48637", "label": "The last spell"},
               { "productId": "71707", "label": "Weird West" },
-              { "productId": "110185", "label": "Hard West 2"}
+              { "productId": "110185", "label": "Hard West 2"},
+              { "productId": "61602", "label": "Tainted Grail: Conquest"}
             ]
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
