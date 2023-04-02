@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-node@v3
       
       - run: npm i node-html-parser
-      - run: npm i node-fetch
       
       - uses: actions/github-script@v6
         id: set-result
@@ -24,7 +23,6 @@ jobs:
         with:
           script: |
             const { parse } = await import('node-html-parser');
-            const { default: fetch } = await import('node-fetch');
 
             const fetchWishList = async ({profileId}) => {
                 const wl = await (await fetch(`https://store.steampowered.com/wishlist/profiles/${profileId}/wishlistdata/?p=0`)).json();
