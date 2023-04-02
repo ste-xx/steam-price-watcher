@@ -23,8 +23,10 @@ jobs:
           PROFILE_ID: '${{secrets.profileId}}'
         with:
           script: |
-            import { parse } from 'node-html-parser';
-            import fetch from 'node-fetch';
+            const { parse } = await import('node-html-parser');
+            const { default: fetch } = await import('node-fetch');
+            #import { parse } from 'node-html-parser';
+           # import fetch from 'node-fetch';
 
             const fetchWishList = async ({profileId}) => {
                 const wl = await (await fetch(`https://store.steampowered.com/wishlist/profiles/${profileId}/wishlistdata/?p=0`)).json();
