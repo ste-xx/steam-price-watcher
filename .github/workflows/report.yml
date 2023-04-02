@@ -22,7 +22,7 @@ jobs:
           PROFILE_ID: '${{secrets.profileId}}'
         with:
           script: |
-            const { parse } = await import('node-html-parser');
+            const HTMLParser = require('node-html-parser');
 
             const fetchWishList = async ({profileId}) => {
                 const wl = await (await fetch(`https://store.steampowered.com/wishlist/profiles/${profileId}/wishlistdata/?p=0`)).json();
@@ -39,7 +39,7 @@ jobs:
 
             const fetchProductPage = async ({productName}) => {
                 const page = await (await fetch(`https://www.allkeyshop.com/blog/buy-${productName}-cd-key-compare-prices/`)).text();
-                return parse(page);
+                return HTMLParser.parse(page);
             }
 
             const wait = (ms) => new Promise(resolve => setTimeout(() => resolve(), ms))
