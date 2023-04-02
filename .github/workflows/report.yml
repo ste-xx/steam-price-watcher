@@ -10,24 +10,78 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ste-xx/steam-price-action@v1
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-node@v3
+      
+      - run: npm i node-html-parser
+      - run: npm i node-fetch
+      
+      - uses: actions/github-script@v6
+        id: set-result
+        env:
+          PROFILE_ID: '${{secrets.profileId}}'
         with:
-          input: | 
-            [
-              { "productId": "104326", "label": "Heros hour" },
-              { "productId": "84981", "label": "Wartales" },
-              { "productId": "56714", "label": "Solasta" },
-              { "productId": "29228", "label": "Song of Conquest" },
-              { "productId": "62170", "label": "King Arthur"},
-              { "productId": "55450", "label": "The Iron Oath"},
-              { "productId": "48637", "label": "The last spell"},
-              { "productId": "71707", "label": "Weird West" },
-              { "productId": "110185", "label": "Hard West 2"},
-              { "productId": "61602", "label": "Tainted Grail: Conquest"}
-            ]
-        id: price
-      - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
-      - uses: EndBug/add-and-commit@v9
-        with:
-          add: report.tsv
+          script: |
+            import { parse } from 'node-html-parser';
+            import fetch from 'node-fetch';
+
+            const fetchWishList = async ({profileId}) => {
+                const wl = await (await fetch(`https://store.steampowered.com/wishlist/profiles/${profileId}/wishlistdata/?p=0`)).json();
+                const wlList = Object.entries(wl).map(([key, value]) => ({key, ...value}));
+
+                console.log("second page entries: " + Object.entries(await (await fetch(`https://store.steampowered.com/wishlist/profiles/${profileId}/wishlistdata/?p=1`)).json()).length);
+
+                wlList.sort((a,b) => a.priority - b.priority); 
+                return wlList
+                .filter(e => e.prerelease === undefined)
+                .map((e) => ({...e, 
+                    requestName: e.name.replaceAll(" ", "-").toLowerCase().replace(/[^a-z1-9\-]/gi, '') })) ;
+            }
+
+            const fetchProductPage = async ({productName}) => {
+                const page = await (await fetch(`https://www.allkeyshop.com/blog/buy-${productName}-cd-key-compare-prices/`)).text();
+                return parse(page);
+            }
+
+            const wait = (ms) => new Promise(resolve => setTimeout(() => resolve(), ms))
+
+            await (async () => {
+                 const wl = await fetchWishList({profileId: process.env.PROFILE_ID}); //process.env.PROFILE_ID});
+                // console.log(wl);
+
+              /*   const result = await wl.reduce(async (acc, e) => {
+                    console.log(e.requestName);
+                    return acc.then(async () => {
+                        await wait(1000)
+                        console.log(e.requestName);
+                        const document = await fetchProductPage({productName: e.requestName});
+                        console.log(document.querySelector('[data-product-id]')?.attributes['data-product-id']);
+                        return;
+                    });
+                 }, Promise.resolve()); */
+            })();
+
+
+      
+      
+     # - uses: ste-xx/steam-price-action@v1
+     #   with:
+     #     input: | 
+     #       [
+     #         { "productId": "104326", "label": "Heros hour" },
+     #         { "productId": "84981", "label": "Wartales" },
+     #         { "productId": "56714", "label": "Solasta" },
+     #         { "productId": "29228", "label": "Song of Conquest" },
+     #         { "productId": "62170", "label": "King Arthur"},
+     #         { "productId": "55450", "label": "The Iron Oath"},
+     #         { "productId": "48637", "label": "The last spell"},
+     #         { "productId": "71707", "label": "Weird West" },
+     #         { "productId": "110185", "label": "Hard West 2"},
+     #         { "productId": "61602", "label": "Tainted Grail: Conquest"}
+     #       ]
+     #   id: price
+     # - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
+     # - uses: EndBug/add-and-commit@v9
+     #   with:
+     #     add: report.tsv
