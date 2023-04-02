@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: ste-xx/steam-price-action@v1
+      - uses: ste-xx/steam-price-action@v2
         with:
           profileId: ${{secrets.profileId}}
         id: price
