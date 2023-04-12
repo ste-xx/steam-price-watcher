@@ -16,7 +16,7 @@ jobs:
           profileId: ${{secrets.profileId}}
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
-      - run: jq -r '.' <<< "$DATA" > report.json
+      - run: echo "$DATA" > report.json
         env:
           DATA: ${{ steps.price.outputs.rawJson }}
           
