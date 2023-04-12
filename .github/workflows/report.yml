@@ -16,7 +16,10 @@ jobs:
           profileId: ${{secrets.profileId}}
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
-      - run: echo "${{ steps.price.outputs.rawJson }}" > report.json
+      - run: jq -r '.' <<< "$DATA" > report.json
+        env:
+          DATA: ${{ steps.price.outputs.rawJson }}
+          
       - uses: EndBug/add-and-commit@v9
         with:
           add: report.tsv report.json
