@@ -15,7 +15,7 @@ jobs:
         with:
           profileId: ${{secrets.profileId}}
           productNameMapping: |
-            weird west definitive edition | weird west
+            Weird West: Definitive Edition | weird west
             darkest dungeon ii            | darkest dungeon 2
             
         id: price
