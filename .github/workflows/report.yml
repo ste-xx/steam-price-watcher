@@ -14,6 +14,10 @@ jobs:
       - uses: ste-xx/steam-price-action@main
         with:
           profileId: ${{secrets.profileId}}
+          productNameMapping: |
+            weird west definitive edition | weird west
+            darkest dungeon ii            | darkest dungeon 2
+            
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
       - run: echo "$DATA" > report.json
