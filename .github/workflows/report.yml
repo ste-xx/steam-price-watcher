@@ -16,7 +16,7 @@ jobs:
           profileId: ${{secrets.profileId}}
           productNameMapping: |
             Weird West: Definitive Edition | weird west
-            darkest dungeon ii            | darkest dungeon 2
+            Darkest Dungeon® II            | darkest dungeon 2
             
         id: price
       - run: echo "${{ steps.price.outputs.tsv }}" > report.tsv
