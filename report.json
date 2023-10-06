@@ -5,7 +5,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header_292x136.jpg?t=1694606969",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "17,862",
+    "reviews_total": "17,882",
     "reviews_percent": 91,
     "release_date": "1681306892",
     "release_string": "Apr 12",
@@ -14,9 +14,9 @@
       {
         "packageid": 539061,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99</div></div></div>",
-        "discount_pct": null,
-        "price": "3499"
+        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2799\" data-bundlediscount=\"0\" data-discount=\"20\"><div class=\"discount_pct\">-20%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99</div><div class=\"discount_final_price\">$27.99</div></div></div>",
+        "discount_pct": 20,
+        "price": "2799"
       }
     ],
     "type": "Game",
@@ -29,8 +29,8 @@
     "review_css": "positive",
     "priority": 2,
     "added": 1657099168,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1695724346",
-    "rank": 865,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
+    "rank": 591,
     "tags": [
       "RPG",
       "Open World",
@@ -44,8 +44,8 @@
     "rss": "https://steamcommunity.com/games/1527950/rss",
     "requestName": "wartales",
     "productId": "84981",
-    "price": 35.31,
-    "url": "https://www.g2a.com/wartales-pc-steam-key-europe-i10000279633003?aid=13448757&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 28.52,
+    "url": "https://www.g2a.com/wartales-pc-steam-key-global-i10000279633002?aid=13531336&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1105670",
@@ -53,7 +53,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/header_292x136.jpg?t=1690273241",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "8,499",
+    "reviews_total": "8,502",
     "reviews_percent": 92,
     "release_date": "1678374058",
     "release_string": "Mar 9",
@@ -78,7 +78,7 @@
     "priority": 3,
     "added": 1666119757,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/page_bg_generated_v6b.jpg?t=1683561276",
-    "rank": 968,
+    "rank": 966,
     "tags": [
       "Turn-Based",
       "2D",
@@ -92,7 +92,7 @@
     "rss": "https://steamcommunity.com/games/1105670/rss",
     "requestName": "the-last-spell",
     "productId": "48637",
-    "price": 30.71,
+    "price": 30.69,
     "url": "https://www.g2a.com/en-gb/the-last-spell-pc-steam-gift-europe-i10000253996006?aid=13416592&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
@@ -101,7 +101,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/867210/header_292x136.jpg?t=1695816760",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "5,078",
+    "reviews_total": "5,080",
     "reviews_percent": 88,
     "release_date": "1652198286",
     "release_string": "May 10, 2022",
@@ -126,7 +126,7 @@
     "priority": 4,
     "added": 1657099192,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 957,
+    "rank": 962,
     "tags": [
       "4X",
       "Retro",
@@ -151,7 +151,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1155330/header_292x136.jpg?t=1693388425",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "668",
+    "reviews_total": "669",
     "reviews_percent": 94,
     "release_date": "1683046021",
     "release_string": "May 2",
@@ -175,8 +175,8 @@
     "review_css": "positive",
     "priority": 7,
     "added": 1665470265,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/page_bg_generated_v6b.jpg?t=1683561276",
-    "rank": 846,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1155330/page_bg_generated_v6b.jpg?t=1693388425",
+    "rank": 872,
     "tags": [
       "Turn-Based Tactics",
       "Turn-Based Combat",
@@ -224,7 +224,7 @@
     "priority": 9,
     "added": 1666119771,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 858,
+    "rank": 898,
     "tags": [
       "RPG",
       "Turn-Based Combat",
@@ -249,7 +249,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1656780/header_292x136.jpg?t=1684765154",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "3,458",
+    "reviews_total": "3,459",
     "reviews_percent": 79,
     "release_date": "1646156954",
     "release_string": "Mar 1, 2022",
@@ -273,8 +273,8 @@
     "review_css": "positive",
     "priority": 10,
     "added": 1657099145,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1695724346",
-    "rank": 937,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
+    "rank": 1000,
     "tags": [
       "Turn-Based",
       "Pixel Graphics",
@@ -297,7 +297,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1669000/header_292x136.jpg?t=1695309093",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "7,879",
+    "reviews_total": "7,885",
     "reviews_percent": 80,
     "release_date": "1683043080",
     "release_string": "May 2",
@@ -321,8 +321,8 @@
     "review_css": "positive",
     "priority": 11,
     "added": 1674218849,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1695724346",
-    "rank": 760,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1669000/page_bg_generated_v6b.jpg?t=1695309093",
+    "rank": 867,
     "tags": [
       "Strategy",
       "4X",
@@ -336,8 +336,8 @@
     "rss": "https://steamcommunity.com/games/1669000/rss",
     "requestName": "age-of-wonders-4",
     "productId": "130742",
-    "price": 32.03,
-    "url": "https://www.g2a.com/en/age-of-wonders-4-pc-steam-key-global-i10000338606001?aid=13446704&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 34.15,
+    "url": "https://www.g2a.com/en/age-of-wonders-4-pc-steam-key-europe-i10000338606002?aid=13446530&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1201540",
@@ -369,8 +369,8 @@
     "review_css": "positive",
     "priority": 12,
     "added": 1666119729,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1159090/page_bg_generated_v6b.jpg?t=1696414625",
-    "rank": 982,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1201540/page_bg_generated_v6b.jpg?t=1687799659",
+    "rank": 951,
     "tags": [
       "Early Access",
       "RPG",
@@ -385,16 +385,16 @@
     "rss": "https://steamcommunity.com/games/1201540/rss",
     "requestName": "hellcard",
     "productId": "88640",
-    "price": 6.25,
+    "price": 6.22,
     "url": "https://www.g2a.com/en/hellcard-pc-steam-key-global-i10000338308001?aid=13494358&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1336490",
     "name": "Against the Storm",
-    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1336490/header_292x136.jpg?t=1696097653",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1336490/header_292x136.jpg?t=1696548870",
     "review_score": 9,
     "review_desc": "Overwhelmingly Positive",
-    "reviews_total": "13,410",
+    "reviews_total": "13,423",
     "reviews_percent": 96,
     "release_date": "1667293057",
     "release_string": "Nov 1, 2022",
@@ -403,9 +403,9 @@
       {
         "packageid": 467072,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
-        "discount_pct": null,
-        "price": "2999"
+        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1949\" data-bundlediscount=\"0\" data-discount=\"35\"><div class=\"discount_pct\">-35%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$19.49</div></div></div>",
+        "discount_pct": 35,
+        "price": "1949"
       }
     ],
     "type": "Game",
@@ -418,8 +418,8 @@
     "review_css": "positive",
     "priority": 13,
     "added": 1670486790,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1336490/page_bg_generated_v6b.jpg?t=1696097653",
-    "rank": 932,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
+    "rank": 517,
     "tags": [
       "Strategy",
       "Base Building",
@@ -434,7 +434,7 @@
     "rss": "https://steamcommunity.com/games/1336490/rss",
     "requestName": "against-the-storm",
     "productId": "64604",
-    "price": 17.21,
+    "price": 17.98,
     "url": "https://www.g2a.com/en/against-the-storm-pc-steam-key-global-i10000337221002?aid=13432497&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
@@ -467,7 +467,7 @@
     "review_css": "positive",
     "priority": 14,
     "added": 1671830242,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/945770/page_bg_generated_v6b.jpg?t=1696530934",
     "rank": 979,
     "tags": [
       "RPG",
@@ -491,7 +491,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/882100/header_292x136.jpg?t=1603903072",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "18,766",
+    "reviews_total": "18,767",
     "reviews_percent": 73,
     "release_date": "1587700800",
     "release_string": "Apr 23, 2020",
@@ -515,8 +515,8 @@
     "review_css": "positive",
     "priority": 15,
     "added": 1669921113,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 973,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 981,
     "tags": [
       "Strategy",
       "Turn-Based Tactics",
@@ -530,8 +530,8 @@
     "rss": "https://steamcommunity.com/games/882100/rss",
     "requestName": "xcom-chimera-squad",
     "productId": "35804",
-    "price": 1.64,
-    "url": "https://www.g2a.com/xcom-chimera-squad-pc-steam-key-global-i10000195005012?aid=13195428&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 1.65,
+    "url": "https://www.g2a.com/xcom-chimera-squad-pc-steam-key-global-i10000195005012?aid=13530500&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1157390",
@@ -539,7 +539,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1157390/header_292x136.jpg?t=1669022966",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "4,580",
+    "reviews_total": "4,581",
     "reviews_percent": 84,
     "release_date": "1650992400",
     "release_string": "Apr 26, 2022",
@@ -563,8 +563,8 @@
     "review_css": "positive",
     "priority": 16,
     "added": 1666120176,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/page_bg_generated_v6b.jpg?t=1683561276",
-    "rank": 1000,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1155330/page_bg_generated_v6b.jpg?t=1693388425",
+    "rank": 974,
     "tags": [
       "Tactical RPG",
       "Turn-Based Tactics",
@@ -578,8 +578,8 @@
     "rss": "https://steamcommunity.com/games/1157390/rss",
     "requestName": "king-arthur-knights-tale",
     "productId": "62170",
-    "price": 29.13,
-    "url": "https://www.g2a.com/en/king-arthur-knights-tale-pc-steam-key-global-i10000233106002?aid=13309286&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 18.61,
+    "url": "https://www.g2a.com/en/king-arthur-knights-tale-pc-steam-key-global-i10000233106002?aid=12881551&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1199030",
@@ -587,7 +587,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1199030/header_292x136.jpg?t=1688476197",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "6,078",
+    "reviews_total": "6,081",
     "reviews_percent": 91,
     "release_date": "1622123803",
     "release_string": "May 27, 2021",
@@ -611,8 +611,8 @@
     "review_css": "positive",
     "priority": 17,
     "added": 1668250546,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1159090/page_bg_generated_v6b.jpg?t=1696414625",
-    "rank": 870,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1199030/page_bg_generated_v6b.jpg?t=1688476197",
+    "rank": 881,
     "tags": [
       "Deckbuilding",
       "Dark Fantasy",
@@ -636,7 +636,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1096530/header_292x136.jpg?t=1685037606",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "15,761",
+    "reviews_total": "15,762",
     "reviews_percent": 88,
     "release_date": "1622126911",
     "release_string": "May 27, 2021",
@@ -660,8 +660,8 @@
     "review_css": "positive",
     "priority": 18,
     "added": 1657099205,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1096530/page_bg_generated_v6b.jpg?t=1685037606",
-    "rank": 522,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/page_bg_generated_v6b.jpg?t=1695308476",
+    "rank": 623,
     "tags": [
       "Co-op Campaign",
       "Isometric",
@@ -709,7 +709,7 @@
     "review_css": "positive",
     "priority": 19,
     "added": 1653591011,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1159090/page_bg_generated_v6b.jpg?t=1696414625",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
     "rank": 1000,
     "tags": [
       "Strategy",
@@ -757,8 +757,8 @@
     "review_css": "positive",
     "priority": 20,
     "added": 1660123773,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1159090/page_bg_generated_v6b.jpg?t=1696414625",
-    "rank": 1000,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
+    "rank": 957,
     "tags": [
       "Turn-Based Strategy",
       "Western",
@@ -781,7 +781,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1580520/header_292x136.jpg?t=1691449990",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "1,035",
+    "reviews_total": "1,036",
     "reviews_percent": 75,
     "release_date": "1665672423",
     "release_string": "Oct 13, 2022",
@@ -805,8 +805,8 @@
     "review_css": "positive",
     "priority": 21,
     "added": 1666245046,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1695724346",
-    "rank": 1000,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/page_bg_generated_v6b.jpg?t=1681920431",
+    "rank": 977,
     "tags": [
       "RPG",
       "Strategy RPG",
@@ -829,7 +829,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/368260/header_292x136.jpg?t=1683821412",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "9,773",
+    "reviews_total": "9,779",
     "reviews_percent": 81,
     "release_date": "1669957312",
     "release_string": "Dec 1, 2022",
@@ -854,7 +854,7 @@
     "priority": 22,
     "added": 1669921208,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 946,
+    "rank": 922,
     "tags": [
       "Superhero",
       "Turn-Based Tactics",
@@ -868,8 +868,8 @@
     "rss": "https://steamcommunity.com/games/368260/rss",
     "requestName": "marvels-midnight-suns",
     "productId": "93100",
-    "price": 20.37,
-    "url": "https://www.g2a.com/en/marvels-midnight-suns-pc-steam-key-global-i10000266269002?aid=13352604&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 20.84,
+    "url": "https://www.g2a.com/en/marvels-midnight-suns-pc-steam-key-europe-i10000266269003?aid=13416634&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1229240",
@@ -877,7 +877,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1229240/header_292x136.jpg?t=1688714230",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "4,282",
+    "reviews_total": "4,288",
     "reviews_percent": 91,
     "release_date": "1670504335",
     "release_string": "Dec 8, 2022",
@@ -901,8 +901,8 @@
     "review_css": "positive",
     "priority": 23,
     "added": 1670515138,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1159090/page_bg_generated_v6b.jpg?t=1696414625",
-    "rank": 924,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1201540/page_bg_generated_v6b.jpg?t=1687799659",
+    "rank": 939,
     "tags": [
       "RPG",
       "Indie",
@@ -918,7 +918,7 @@
     "rss": "https://steamcommunity.com/games/1229240/rss",
     "requestName": "chained-echoes",
     "productId": "48634",
-    "price": 24.04,
+    "price": 24.06,
     "url": "https://www.g2a.com/en/chained-echoes-pc-steam-gift-europe-i10000337632004?aid=13433622&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
@@ -927,7 +927,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1139980/header_292x136_alt_assets_0.jpg?t=1695297533",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "6,429",
+    "reviews_total": "6,442",
     "reviews_percent": 91,
     "release_date": "1595951905",
     "release_string": "Jul 28, 2020",
@@ -936,9 +936,9 @@
       {
         "packageid": 387838,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1124\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$14.99</div><div class=\"discount_final_price\">$11.24</div></div></div>",
-        "discount_pct": 25,
-        "price": "1124"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$14.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1499"
       }
     ],
     "type": "Game",
@@ -952,7 +952,7 @@
     "priority": 24,
     "added": 1674995657,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/page_bg_generated_v6b.jpg?t=1683561276",
-    "rank": 818,
+    "rank": 882,
     "tags": [
       "Life Sim",
       "Pixel Graphics",
@@ -967,8 +967,8 @@
     "rss": "https://steamcommunity.com/games/1139980/rss",
     "requestName": "travellers-rest",
     "productId": "35057",
-    "price": 14.08,
-    "url": "https://www.g2a.com/en/travellers-rest-pc-steam-key-global-i10000206676003?aid=13520503&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 12.33,
+    "url": "https://www.g2a.com/en/travellers-rest-pc-steam-key-global-i10000206676003?aid=13477749&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1088850",
@@ -976,7 +976,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header_292x136.jpg?t=1677000792",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "23,731",
+    "reviews_total": "23,742",
     "reviews_percent": 94,
     "release_date": "1635264369",
     "release_string": "Oct 26, 2021",
@@ -1000,8 +1000,8 @@
     "review_css": "positive",
     "priority": 25,
     "added": 1683389700,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 977,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/945770/page_bg_generated_v6b.jpg?t=1696530934",
+    "rank": 965,
     "tags": [
       "Singleplayer",
       "Story Rich",
@@ -1015,8 +1015,8 @@
     "rss": "https://steamcommunity.com/games/1088850/rss",
     "requestName": "marvels-guardians-of-the-galaxy",
     "productId": "85125",
-    "price": 16.37,
-    "url": "https://www.g2a.com/en-gb/marvels-guardians-of-the-galaxy-pc-steam-key-global-i10000255986002?aid=13076490&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 16.36,
+    "url": "https://www.g2a.com/en-gb/marvels-guardians-of-the-galaxy-pc-steam-key-global-i10000255986002?aid=13504003&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1091500",
@@ -1024,7 +1024,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header_292x136_alt_assets_2.jpg?t=1695308476",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "576,959",
+    "reviews_total": "578,525",
     "reviews_percent": 81,
     "release_date": "1607558400",
     "release_string": "Dec 9, 2020",
@@ -1048,8 +1048,8 @@
     "review_css": "positive",
     "priority": 26,
     "added": 1683449624,
-    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 116,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/page_bg_generated_v6b.jpg?t=1695308476",
+    "rank": -30,
     "tags": [
       "Cyberpunk",
       "Open World",
@@ -1063,7 +1063,7 @@
     "rss": "https://steamcommunity.com/games/1091500/rss",
     "requestName": "cyberpunk-2077",
     "productId": "10539",
-    "price": 61.54,
+    "price": 61.74,
     "url": "https://www.g2a.com/cyberpunk-2077-steam-gift-europe-i10000156543005?aid=13376046&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
@@ -1072,7 +1072,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1940340/header_292x136.jpg?t=1692372754",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "10,035",
+    "reviews_total": "10,043",
     "reviews_percent": 75,
     "release_date": "1683560828",
     "release_string": "May 8",
@@ -1097,7 +1097,7 @@
     "priority": 32,
     "added": 1683638766,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/1940340/page_bg_generated_v6b.jpg?t=1692372754",
-    "rank": 853,
+    "rank": 855,
     "tags": [
       "Turn-Based Tactics",
       "Dark Fantasy",
@@ -1111,7 +1111,7 @@
     "rss": "https://steamcommunity.com/games/1940340/rss",
     "requestName": "darkest-dungeon-2",
     "productId": "56866",
-    "price": 51.32,
+    "price": 50.97,
     "url": "https://www.g2a.com/en/darkest-dungeon-ii-pc-steam-gift-europe-i10000219127007?aid=13478832&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
@@ -1120,7 +1120,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/header_292x136.jpg?t=1683561276",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "2,682",
+    "reviews_total": "2,683",
     "reviews_percent": 77,
     "release_date": "1648731600",
     "release_string": "Mar 31, 2022",
@@ -1145,7 +1145,7 @@
     "priority": 33,
     "added": 1683638754,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/page_bg_generated_v6b.jpg?t=1683561276",
-    "rank": 970,
+    "rank": 987,
     "tags": [
       "Western",
       "RPG",
@@ -1159,8 +1159,8 @@
     "rss": "https://steamcommunity.com/games/1097350/rss",
     "requestName": "weird-west",
     "productId": "71707",
-    "price": 12.79,
-    "url": "https://www.g2a.com/weird-west-pc-steam-key-global-i10000279644002?aid=13459872&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
+    "price": 12.78,
+    "url": "https://www.g2a.com/weird-west-pc-steam-key-global-i10000279644002?aid=13467440&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "599140",
@@ -1168,7 +1168,7 @@
     "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/599140/header_292x136.jpg?t=1690979259",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "27,998",
+    "reviews_total": "28,002",
     "reviews_percent": 86,
     "release_date": "1534346114",
     "release_string": "Aug 15, 2018",
@@ -1193,7 +1193,7 @@
     "priority": 35,
     "added": 1689228346,
     "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1683821412",
-    "rank": 882,
+    "rank": 886,
     "tags": [
       "Pixel Graphics",
       "Crafting",
