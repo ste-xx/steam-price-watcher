@@ -2,10 +2,10 @@
   {
     "key": "1527950",
     "name": "Wartales",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/header_292x136_alt_assets_3.jpg?t=1702564922",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header_292x136_alt_assets_3.jpg?t=1702564922",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "20,565",
+    "reviews_total": "20,596",
     "reviews_percent": 91,
     "release_date": "1681306892",
     "release_string": "Apr 12, 2023",
@@ -14,9 +14,9 @@
       {
         "packageid": 539061,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2624\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99</div><div class=\"discount_final_price\">$26.24</div></div></div>",
-        "discount_pct": 25,
-        "price": "2624"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3499"
       }
     ],
     "type": "Game",
@@ -29,8 +29,8 @@
     "review_css": "positive",
     "priority": 2,
     "added": 1657099168,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/page_bg_generated_v6b.jpg?t=1702564922",
-    "rank": 723,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 720,
     "tags": [
       "RPG",
       "Open World",
@@ -50,10 +50,10 @@
   {
     "key": "1105670",
     "name": "The Last Spell",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1105670/header_292x136.jpg?t=1702460642",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/header_292x136.jpg?t=1702460642",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "9,122",
+    "reviews_total": "9,127",
     "reviews_percent": 92,
     "release_date": "1678374058",
     "release_string": "Mar 9, 2023",
@@ -62,9 +62,9 @@
       {
         "packageid": 373489,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1749\" data-bundlediscount=\"0\" data-discount=\"30\"><div class=\"discount_pct\">-30%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99</div><div class=\"discount_final_price\">$17.49</div></div></div>",
-        "discount_pct": 30,
-        "price": "1749"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
       }
     ],
     "type": "Game",
@@ -77,8 +77,8 @@
     "review_css": "positive",
     "priority": 3,
     "added": 1666119757,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 908,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 916,
     "tags": [
       "Turn-Based",
       "2D",
@@ -98,10 +98,10 @@
   {
     "key": "867210",
     "name": "Songs of Conquest",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/867210/header_292x136.jpg?t=1702542770",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/867210/header_292x136.jpg?t=1702542770",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "5,557",
+    "reviews_total": "5,562",
     "reviews_percent": 88,
     "release_date": "1652198286",
     "release_string": "May 10, 2022",
@@ -125,8 +125,8 @@
     "review_css": "positive",
     "priority": 4,
     "added": 1657099192,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/page_bg_generated_v6b.jpg?t=1703010738",
-    "rank": 897,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 863,
     "tags": [
       "4X",
       "Retro",
@@ -148,7 +148,7 @@
   {
     "key": "945770",
     "name": "Dark Envoy",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/945770/header_292x136.jpg?t=1702642305",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/945770/header_292x136.jpg?t=1702642305",
     "review_score": 6,
     "review_desc": "Mostly Positive",
     "reviews_total": "322",
@@ -160,9 +160,9 @@
       {
         "packageid": 307574,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2399\" data-bundlediscount=\"0\" data-discount=\"20\"><div class=\"discount_pct\">-20%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$23.99</div></div></div>",
-        "discount_pct": 20,
-        "price": "2399"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -175,8 +175,8 @@
     "review_css": "positive",
     "priority": 5,
     "added": 1656234086,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/page_bg_generated_v6b.jpg?t=1703010738",
-    "rank": 971,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 980,
     "tags": [
       "Steampunk",
       "Real Time Tactics",
@@ -196,10 +196,10 @@
   {
     "key": "1155330",
     "name": "Showgunners",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1155330/header_292x136.jpg?t=1698231933",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1155330/header_292x136.jpg?t=1698231933",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "814",
+    "reviews_total": "815",
     "reviews_percent": 94,
     "release_date": "1683046021",
     "release_string": "May 2, 2023",
@@ -208,9 +208,9 @@
       {
         "packageid": 393974,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1649\" data-bundlediscount=\"0\" data-discount=\"45\"><div class=\"discount_pct\">-45%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$16.49</div></div></div>",
-        "discount_pct": 45,
-        "price": "1649"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -223,7 +223,7 @@
     "review_css": "positive",
     "priority": 7,
     "added": 1665470265,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
     "rank": 963,
     "tags": [
       "Turn-Based Tactics",
@@ -244,10 +244,10 @@
   {
     "key": "699330",
     "name": "The Iron Oath",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/header_292x136.jpg?t=1703010738",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/699330/header_292x136.jpg?t=1703010738",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "575",
+    "reviews_total": "576",
     "reviews_percent": 80,
     "release_date": "1698939131",
     "release_string": "Nov 2, 2023",
@@ -256,9 +256,9 @@
       {
         "packageid": 201196,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1874\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99</div><div class=\"discount_final_price\">$18.74</div></div></div>",
-        "discount_pct": 25,
-        "price": "1874"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
       }
     ],
     "type": "Game",
@@ -271,8 +271,8 @@
     "review_css": "positive",
     "priority": 9,
     "added": 1666119771,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/page_bg_generated_v6b.jpg?t=1703010738",
-    "rank": 955,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 956,
     "tags": [
       "RPG",
       "Turn-Based Combat",
@@ -293,10 +293,10 @@
   {
     "key": "1669000",
     "name": "Age of Wonders 4",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669000/header_292x136.jpg?t=1701684160",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1669000/header_292x136.jpg?t=1701684160",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "9,256",
+    "reviews_total": "9,265",
     "reviews_percent": 81,
     "release_date": "1683043080",
     "release_string": "May 2, 2023",
@@ -305,9 +305,9 @@
       {
         "packageid": 593424,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"30\"><div class=\"discount_pct\">-30%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99</div><div class=\"discount_final_price\">$34.99</div></div></div>",
-        "discount_pct": 30,
-        "price": "3499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4999"
       }
     ],
     "type": "Game",
@@ -320,8 +320,8 @@
     "review_css": "positive",
     "priority": 11,
     "added": 1674218849,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/page_bg_generated_v6b.jpg?t=1702564922",
-    "rank": 524,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 560,
     "tags": [
       "Strategy",
       "4X",
@@ -341,10 +341,10 @@
   {
     "key": "1201540",
     "name": "HELLCARD",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1201540/header_292x136.jpg?t=1702121421",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1201540/header_292x136.jpg?t=1702121421",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "1,460",
+    "reviews_total": "1,463",
     "reviews_percent": 84,
     "release_date": "1676570420",
     "release_string": "Feb 16, 2023",
@@ -353,9 +353,9 @@
       {
         "packageid": 414691,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1499\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$14.99</div></div></div>",
-        "discount_pct": 25,
-        "price": "1499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -368,8 +368,8 @@
     "review_css": "positive",
     "priority": 12,
     "added": 1666119729,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 957,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 959,
     "tags": [
       "Early Access",
       "RPG",
@@ -390,10 +390,10 @@
   {
     "key": "1336490",
     "name": "Against the Storm",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1336490/header_292x136.jpg?t=1704281211",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1336490/header_292x136.jpg?t=1704281211",
     "review_score": 9,
     "review_desc": "Overwhelmingly Positive",
-    "reviews_total": "18,241",
+    "reviews_total": "18,283",
     "reviews_percent": 95,
     "release_date": "1702050764",
     "release_string": "Dec 8, 2023",
@@ -402,9 +402,9 @@
       {
         "packageid": 467072,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1949\" data-bundlediscount=\"0\" data-discount=\"35\"><div class=\"discount_pct\">-35%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$19.49</div></div></div>",
-        "discount_pct": 35,
-        "price": "1949"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -417,8 +417,8 @@
     "review_css": "positive",
     "priority": 13,
     "added": 1670486790,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/page_bg_generated_v6b.jpg?t=1688714230",
-    "rank": 480,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 522,
     "tags": [
       "Strategy",
       "Simulation",
@@ -438,7 +438,7 @@
   {
     "key": "981430",
     "name": "Gordian Quest",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/header_292x136.jpg?t=1698595157",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/981430/header_292x136.jpg?t=1698595157",
     "review_score": 8,
     "review_desc": "Very Positive",
     "reviews_total": "4,689",
@@ -450,9 +450,9 @@
       {
         "packageid": 322872,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1199\" data-bundlediscount=\"0\" data-discount=\"40\"><div class=\"discount_pct\">-40%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$11.99</div></div></div>",
-        "discount_pct": 40,
-        "price": "1199"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -465,8 +465,8 @@
     "review_css": "positive",
     "priority": 14,
     "added": 1671830242,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 970,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 975,
     "tags": [
       "RPG",
       "Card Game",
@@ -486,7 +486,7 @@
   {
     "key": "1656780",
     "name": "Hero's Hour",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1656780/header_292x136.jpg?t=1701955340",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1656780/header_292x136.jpg?t=1701955340",
     "review_score": 6,
     "review_desc": "Mostly Positive",
     "reviews_total": "3,628",
@@ -498,9 +498,9 @@
       {
         "packageid": 588746,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"899\" data-bundlediscount=\"0\" data-discount=\"50\"><div class=\"discount_pct\">-50%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$17.99</div><div class=\"discount_final_price\">$8.99</div></div></div>",
-        "discount_pct": 50,
-        "price": "899"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1799\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$17.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1799"
       }
     ],
     "type": "Game",
@@ -513,8 +513,8 @@
     "review_css": "positive",
     "priority": 15,
     "added": 1657099145,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/page_bg_generated_v6b.jpg?t=1702564922",
-    "rank": 955,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 957,
     "tags": [
       "Turn-Based",
       "Pixel Graphics",
@@ -534,7 +534,7 @@
   {
     "key": "882100",
     "name": "XCOM®: Chimera Squad",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/882100/header_292x136.jpg?t=1603903072",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/882100/header_292x136.jpg?t=1603903072",
     "review_score": 6,
     "review_desc": "Mostly Positive",
     "reviews_total": "18,932",
@@ -561,8 +561,8 @@
     "review_css": "positive",
     "priority": 16,
     "added": 1669921113,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/page_bg_generated_v6b.jpg?t=1703010738",
-    "rank": 973,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 957,
     "tags": [
       "Strategy",
       "Turn-Based Tactics",
@@ -582,10 +582,10 @@
   {
     "key": "1157390",
     "name": "King Arthur: Knight's Tale",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1157390/header_292x136.jpg?t=1703667784",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1157390/header_292x136.jpg?t=1703667784",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "4,948",
+    "reviews_total": "4,950",
     "reviews_percent": 84,
     "release_date": "1650992400",
     "release_string": "Apr 26, 2022",
@@ -594,9 +594,9 @@
       {
         "packageid": 394728,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2249\" data-bundlediscount=\"0\" data-discount=\"50\"><div class=\"discount_pct\">-50%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$44.99</div><div class=\"discount_final_price\">$22.49</div></div></div>",
-        "discount_pct": 50,
-        "price": "2249"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$44.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4499"
       }
     ],
     "type": "Game",
@@ -609,8 +609,8 @@
     "review_css": "positive",
     "priority": 17,
     "added": 1666120176,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 925,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 932,
     "tags": [
       "Tactical RPG",
       "Turn-Based Tactics",
@@ -630,10 +630,10 @@
   {
     "key": "1199030",
     "name": "Tainted Grail: Conquest",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1199030/header_292x136.jpg?t=1699640496",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1199030/header_292x136.jpg?t=1699640496",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "6,265",
+    "reviews_total": "6,266",
     "reviews_percent": 91,
     "release_date": "1622123803",
     "release_string": "May 27, 2021",
@@ -642,9 +642,9 @@
       {
         "packageid": 522046,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"999\" data-bundlediscount=\"0\" data-discount=\"50\"><div class=\"discount_pct\">-50%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$9.99</div></div></div>",
-        "discount_pct": 50,
-        "price": "999"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -657,8 +657,8 @@
     "review_css": "positive",
     "priority": 18,
     "added": 1668250546,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 971,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 961,
     "tags": [
       "Deckbuilding",
       "Dark Fantasy",
@@ -679,10 +679,10 @@
   {
     "key": "1096530",
     "name": "Solasta: Crown of the Magister",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1096530/header_292x136.jpg?t=1701877439",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1096530/header_292x136.jpg?t=1701877439",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "16,125",
+    "reviews_total": "16,128",
     "reviews_percent": 88,
     "release_date": "1622126911",
     "release_string": "May 27, 2021",
@@ -691,9 +691,9 @@
       {
         "packageid": 369680,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"899\" data-bundlediscount=\"0\" data-discount=\"70\"><div class=\"discount_pct\">-70%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$8.99</div></div></div>",
-        "discount_pct": 70,
-        "price": "899"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -706,8 +706,8 @@
     "review_css": "positive",
     "priority": 19,
     "added": 1657099205,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 831,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/page_bg_generated_v6b.jpg?t=1700763034",
+    "rank": 855,
     "tags": [
       "Co-op Campaign",
       "Isometric",
@@ -728,7 +728,7 @@
   {
     "key": "1309610",
     "name": "Line War",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1309610/header_292x136.jpg?t=1693298140",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1309610/header_292x136.jpg?t=1693298140",
     "review_score": 6,
     "review_desc": "Mostly Positive",
     "reviews_total": "582",
@@ -740,9 +740,9 @@
       {
         "packageid": 457155,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1499\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$14.99</div></div></div>",
-        "discount_pct": 25,
-        "price": "1499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -755,8 +755,8 @@
     "review_css": "positive",
     "priority": 20,
     "added": 1653591011,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/page_bg_generated_v6b.jpg?t=1688714230",
-    "rank": 991,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 992,
     "tags": [
       "Strategy",
       "RTS",
@@ -776,10 +776,10 @@
   {
     "key": "1282410",
     "name": "Hard West 2",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282410/header_292x136.jpg?t=1681920431",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1282410/header_292x136.jpg?t=1681920431",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "2,025",
+    "reviews_total": "2,027",
     "reviews_percent": 80,
     "release_date": "1659632455",
     "release_string": "Aug 4, 2022",
@@ -788,9 +788,9 @@
       {
         "packageid": 446858,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1049\" data-bundlediscount=\"0\" data-discount=\"65\"><div class=\"discount_pct\">-65%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$10.49</div></div></div>",
-        "discount_pct": 65,
-        "price": "1049"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -803,7 +803,7 @@
     "review_css": "positive",
     "priority": 21,
     "added": 1660123773,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/page_bg_generated_v6b.jpg?t=1688714230",
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
     "rank": 959,
     "tags": [
       "Turn-Based Strategy",
@@ -824,10 +824,10 @@
   {
     "key": "1580520",
     "name": "Lost Eidolons",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1580520/header_292x136.jpg?t=1700590012",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1580520/header_292x136.jpg?t=1700590012",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "1,222",
+    "reviews_total": "1,223",
     "reviews_percent": 73,
     "release_date": "1665672423",
     "release_string": "Oct 13, 2022",
@@ -836,9 +836,9 @@
       {
         "packageid": 559122,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2099\" data-bundlediscount=\"0\" data-discount=\"40\"><div class=\"discount_pct\">-40%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99</div><div class=\"discount_final_price\">$20.99</div></div></div>",
-        "discount_pct": 40,
-        "price": "2099"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3499"
       }
     ],
     "type": "Game",
@@ -851,8 +851,8 @@
     "review_css": "positive",
     "priority": 22,
     "added": 1666245046,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/page_bg_generated_v6b.jpg?t=1702564922",
-    "rank": 973,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 968,
     "tags": [
       "RPG",
       "Strategy RPG",
@@ -872,10 +872,10 @@
   {
     "key": "368260",
     "name": "Marvel's Midnight Suns",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/header_292x136.jpg?t=1702946042",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/368260/header_292x136.jpg?t=1702946042",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "10,982",
+    "reviews_total": "10,990",
     "reviews_percent": 82,
     "release_date": "1669957312",
     "release_string": "Dec 1, 2022",
@@ -899,8 +899,8 @@
     "review_css": "positive",
     "priority": 23,
     "added": 1669921208,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
-    "rank": 538,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 529,
     "tags": [
       "Superhero",
       "Turn-Based Tactics",
@@ -920,10 +920,10 @@
   {
     "key": "1229240",
     "name": "Chained Echoes",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/header_292x136.jpg?t=1688714230",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1229240/header_292x136.jpg?t=1688714230",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "4,900",
+    "reviews_total": "4,901",
     "reviews_percent": 91,
     "release_date": "1670504335",
     "release_string": "Dec 8, 2022",
@@ -932,9 +932,9 @@
       {
         "packageid": 426186,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1874\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$24.99</div><div class=\"discount_final_price\">$18.74</div></div></div>",
-        "discount_pct": 25,
-        "price": "1874"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
       }
     ],
     "type": "Game",
@@ -947,8 +947,8 @@
     "review_css": "positive",
     "priority": 24,
     "added": 1670515138,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/page_bg_generated_v6b.jpg?t=1688714230",
-    "rank": 786,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 807,
     "tags": [
       "RPG",
       "Indie",
@@ -970,10 +970,10 @@
   {
     "key": "1139980",
     "name": "Travellers Rest",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1139980/header_292x136_alt_assets_0.jpg?t=1703180616",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1139980/header_292x136_alt_assets_0.jpg?t=1703180616",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "7,188",
+    "reviews_total": "7,192",
     "reviews_percent": 91,
     "release_date": "1595951905",
     "release_string": "Jul 28, 2020",
@@ -982,9 +982,9 @@
       {
         "packageid": 387838,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1124\" data-bundlediscount=\"0\" data-discount=\"25\"><div class=\"discount_pct\">-25%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$14.99</div><div class=\"discount_final_price\">$11.24</div></div></div>",
-        "discount_pct": 25,
-        "price": "1124"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$14.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1499"
       }
     ],
     "type": "Game",
@@ -997,8 +997,8 @@
     "review_css": "positive",
     "priority": 25,
     "added": 1674995657,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 899,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 895,
     "tags": [
       "Life Sim",
       "Pixel Graphics",
@@ -1019,10 +1019,10 @@
   {
     "key": "1088850",
     "name": "Marvel's Guardians of the Galaxy",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1088850/header_292x136.jpg?t=1700763034",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header_292x136.jpg?t=1700763034",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "25,311",
+    "reviews_total": "25,335",
     "reviews_percent": 94,
     "release_date": "1635264369",
     "release_string": "Oct 26, 2021",
@@ -1031,9 +1031,9 @@
       {
         "packageid": 584813,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1499\" data-bundlediscount=\"0\" data-discount=\"75\"><div class=\"discount_pct\">-75%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$59.99</div><div class=\"discount_final_price\">$14.99</div></div></div>",
-        "discount_pct": 75,
-        "price": "1499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"5999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99</div></div></div>",
+        "discount_pct": null,
+        "price": "5999"
       }
     ],
     "type": "Game",
@@ -1046,8 +1046,8 @@
     "review_css": "positive",
     "priority": 26,
     "added": 1683389700,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 835,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/page_bg_generated_v6b.jpg?t=1700763034",
+    "rank": 979,
     "tags": [
       "Singleplayer",
       "Story Rich",
@@ -1067,10 +1067,10 @@
   {
     "key": "1091500",
     "name": "Cyberpunk 2077",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header_292x136.jpg?t=1702306332",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header_292x136.jpg?t=1702306332",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "618,355",
+    "reviews_total": "618,687",
     "reviews_percent": 82,
     "release_date": "1607558400",
     "release_string": "Dec 9, 2020",
@@ -1079,9 +1079,9 @@
       {
         "packageid": 367653,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"50\"><div class=\"discount_pct\">-50%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$59.99</div><div class=\"discount_final_price\">$29.99</div></div></div>",
-        "discount_pct": 50,
-        "price": "2999"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"5999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99</div></div></div>",
+        "discount_pct": null,
+        "price": "5999"
       }
     ],
     "type": "Game",
@@ -1094,8 +1094,8 @@
     "review_css": "positive",
     "priority": 27,
     "added": 1683449624,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 30,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/page_bg_generated_v6b.jpg?t=1700763034",
+    "rank": 0,
     "tags": [
       "Cyberpunk",
       "Open World",
@@ -1109,16 +1109,16 @@
     "rss": "https://steamcommunity.com/games/1091500/rss",
     "requestName": "cyberpunk-2077",
     "productId": "10539",
-    "price": 34.05,
+    "price": 47.64,
     "url": "https://www.g2a.com/cyberpunk-2077-steam-gift-europe-i10000156543005?aid=13376046&gtag=dccb1b16c9&utm_content=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop"
   },
   {
     "key": "1485590",
     "name": "ENDLESS™ Dungeon",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1485590/header_292x136.jpg?t=1702894141",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/header_292x136.jpg?t=1702894141",
     "review_score": 5,
     "review_desc": "Mixed",
-    "reviews_total": "2,195",
+    "reviews_total": "2,199",
     "reviews_percent": 67,
     "release_date": "1697724240",
     "release_string": "Oct 19, 2023",
@@ -1127,9 +1127,9 @@
       {
         "packageid": 953652,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2099\" data-bundlediscount=\"0\" data-discount=\"30\"><div class=\"discount_pct\">-30%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$29.99</div><div class=\"discount_final_price\">$20.99</div></div></div>",
-        "discount_pct": 30,
-        "price": "2099"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
       }
     ],
     "type": "Game",
@@ -1142,8 +1142,8 @@
     "review_css": "mixed",
     "priority": 28,
     "added": 1682078839,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/page_bg_generated_v6b.jpg?t=1688714230",
-    "rank": 903,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 921,
     "tags": [
       "Action",
       "Tower Defense",
@@ -1163,21 +1163,21 @@
   {
     "key": "1940340",
     "name": "Darkest Dungeon® II",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1940340/header_292x136.jpg?t=1699372720",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1940340/header_292x136.jpg?t=1699372720",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "12,398",
+    "reviews_total": "12,413",
     "reviews_percent": 77,
     "release_date": "1683560828",
     "release_string": "May 8, 2023",
     "platform_icons": "<span class=\"platform_img win\"></span>",
     "subs": [
       {
-        "packageid": null,
-        "bundleid": 31810,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2623\" data-bundlediscount=\"25\" data-discount=\"60\"><div class=\"bundle_base_discount\">-25%</div><div class=\"discount_pct\">-60%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$64.98</div><div class=\"discount_final_price\">$26.23</div></div></div>",
-        "discount_pct": 60,
-        "price": "2623"
+        "packageid": 699070,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3999"
       }
     ],
     "type": "Game",
@@ -1190,8 +1190,8 @@
     "review_css": "positive",
     "priority": 33,
     "added": 1683638766,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/page_bg_generated_v6b.jpg?t=1702564922",
-    "rank": 619,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/page_bg_generated_v6b.jpg?t=1702894141",
+    "rank": 668,
     "tags": [
       "Turn-Based Tactics",
       "Roguelite",
@@ -1211,10 +1211,10 @@
   {
     "key": "1097350",
     "name": "Weird West: Definitive Edition",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1097350/header_292x136.jpg?t=1683561276",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/header_292x136.jpg?t=1683561276",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "2,841",
+    "reviews_total": "2,846",
     "reviews_percent": 78,
     "release_date": "1648731600",
     "release_string": "Mar 31, 2022",
@@ -1223,9 +1223,9 @@
       {
         "packageid": 666281,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"999\" data-bundlediscount=\"0\" data-discount=\"75\"><div class=\"discount_pct\">-75%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$39.99</div><div class=\"discount_final_price\">$9.99</div></div></div>",
-        "discount_pct": 75,
-        "price": "999"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3999"
       }
     ],
     "type": "Game",
@@ -1238,8 +1238,8 @@
     "review_css": "positive",
     "priority": 34,
     "added": 1683638754,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 926,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/page_bg_generated_v6b.jpg?t=1700763034",
+    "rank": 933,
     "tags": [
       "Western",
       "Isometric",
@@ -1259,10 +1259,10 @@
   {
     "key": "599140",
     "name": "Graveyard Keeper",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/header_292x136.jpg?t=1690979259",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/599140/header_292x136.jpg?t=1690979259",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "29,626",
+    "reviews_total": "29,640",
     "reviews_percent": 87,
     "release_date": "1534346114",
     "release_string": "Aug 15, 2018",
@@ -1271,9 +1271,9 @@
       {
         "packageid": 157309,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"399\" data-bundlediscount=\"0\" data-discount=\"80\"><div class=\"discount_pct\">-80%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$3.99</div></div></div>",
-        "discount_pct": 80,
-        "price": "399"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -1286,8 +1286,8 @@
     "review_css": "positive",
     "priority": 35,
     "added": 1689228346,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/page_bg_generated_v6b.jpg?t=1690979259",
-    "rank": 847,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 869,
     "tags": [
       "Pixel Graphics",
       "Crafting",
@@ -1309,10 +1309,10 @@
   {
     "key": "1016920",
     "name": "Unrailed!",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1016920/header_292x136.jpg?t=1701377307",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1016920/header_292x136.jpg?t=1701377307",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "11,654",
+    "reviews_total": "11,658",
     "reviews_percent": 94,
     "release_date": "1600880411",
     "release_string": "Sep 23, 2020",
@@ -1321,9 +1321,9 @@
       {
         "packageid": 337058,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"499\" data-bundlediscount=\"0\" data-discount=\"75\"><div class=\"discount_pct\">-75%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$4.99</div></div></div>",
-        "discount_pct": 75,
-        "price": "499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -1336,8 +1336,8 @@
     "review_css": "positive",
     "priority": 36,
     "added": 1700470040,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 937,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 946,
     "tags": [
       "Multiplayer",
       "Co-op",
@@ -1359,10 +1359,10 @@
   {
     "key": "1062810",
     "name": "Inkbound",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062810/header_292x136.jpg?t=1698680397",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1062810/header_292x136.jpg?t=1698680397",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "1,831",
+    "reviews_total": "1,832",
     "reviews_percent": 91,
     "release_date": "1684773184",
     "release_string": "May 22, 2023",
@@ -1371,9 +1371,9 @@
       {
         "packageid": 355420,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1599\" data-bundlediscount=\"0\" data-discount=\"20\"><div class=\"discount_pct\">-20%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$15.99</div></div></div>",
-        "discount_pct": 20,
-        "price": "1599"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -1386,8 +1386,8 @@
     "review_css": "positive",
     "priority": 37,
     "added": 1700386982,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 837,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 854,
     "tags": [
       "Tactical RPG",
       "Turn-Based Tactics",
@@ -1408,10 +1408,10 @@
   {
     "key": "1123770",
     "name": "Curse of the Dead Gods",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1123770/header_292x136.jpg?t=1695819473",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1123770/header_292x136.jpg?t=1695819473",
     "review_score": 8,
     "review_desc": "Very Positive",
-    "reviews_total": "6,323",
+    "reviews_total": "6,326",
     "reviews_percent": 85,
     "release_date": "1614099488",
     "release_string": "Feb 23, 2021",
@@ -1420,9 +1420,9 @@
       {
         "packageid": 381439,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"699\" data-bundlediscount=\"0\" data-discount=\"65\"><div class=\"discount_pct\">-65%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$6.99</div></div></div>",
-        "discount_pct": 65,
-        "price": "699"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
       }
     ],
     "type": "Game",
@@ -1435,8 +1435,8 @@
     "review_css": "positive",
     "priority": 38,
     "added": 1698113903,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 957,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 965,
     "tags": [
       "Action Roguelike",
       "Isometric",
@@ -1456,10 +1456,10 @@
   {
     "key": "1167750",
     "name": "The Lamplighters League",
-    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1167750/header_292x136.jpg?t=1702649264",
+    "capsule": "https://cdn.akamai.steamstatic.com/steam/apps/1167750/header_292x136.jpg?t=1702649264",
     "review_score": 6,
     "review_desc": "Mostly Positive",
-    "reviews_total": "297",
+    "reviews_total": "298",
     "reviews_percent": 70,
     "release_date": "1696348724",
     "release_string": "Oct 3, 2023",
@@ -1468,9 +1468,9 @@
       {
         "packageid": 399011,
         "bundleid": null,
-        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"30\"><div class=\"discount_pct\">-30%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$49.99</div><div class=\"discount_final_price\">$34.99</div></div></div>",
-        "discount_pct": 30,
-        "price": "3499"
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4999"
       }
     ],
     "type": "Game",
@@ -1483,8 +1483,8 @@
     "review_css": "positive",
     "priority": 39,
     "added": 1698113612,
-    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1698595157",
-    "rank": 950,
+    "background": "https://cdn.akamai.steamstatic.com/steam/apps/1105670/page_bg_generated_v6b.jpg?t=1702460642",
+    "rank": 937,
     "tags": [
       "Story Rich",
       "Adventure",
