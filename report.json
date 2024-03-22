@@ -1,1 +1,1460 @@
-
+[
+  {
+    "key": "864160",
+    "name": "BE-A Walker",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/864160/header_292x136.jpg?t=1684159370",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "471",
+    "reviews_percent": 75,
+    "release_date": "1588860041",
+    "release_string": "May 7, 2020",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 272429,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99</div></div></div>",
+        "discount_pct": null,
+        "price": "999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_9ad0ab4b437a89fe12d41cdfc899c9a4347dfc61.jpg",
+      "ss_e13d24f91d222cc087820a0b107280e517932fdb.jpg",
+      "ss_0cbc0d67f5e7f10e4cd48a2436dddcff0c6339c2.jpg",
+      "ss_df1bf9c8f4890c8f125142f8f59762ddefdc4026.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 0,
+    "added": 1710271655,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 995,
+    "tags": [
+      "Shoot 'Em Up",
+      "Difficult",
+      "Experimental",
+      "Mechs",
+      "Action-Adventure"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "mac": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/864160/rss",
+    "requestName": "be-a-walker",
+    "productId": "37718",
+    "price": 3.42,
+    "url": "https://www.g2a.com/be-a-walker-pc-steam-key-global-i10000195392001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=3316b3e5-4eff-498f-927a-dffe1566ac01"
+  },
+  {
+    "key": "1330000",
+    "name": "Stolen Realm",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1330000/header_292x136.jpg?t=1710442130",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "1,940",
+    "reviews_percent": 87,
+    "release_date": "1709885071",
+    "release_string": "Mar 8",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+    "subs": [
+      {
+        "packageid": 464629,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"1799\" data-bundlediscount=\"0\" data-discount=\"10\"><div class=\"discount_pct\">-10%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$19.99</div><div class=\"discount_final_price\">$17.99</div></div></div>",
+        "discount_pct": 10,
+        "price": "1799"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_55a6c4c4dad553194779570143e2732961c04079.jpg",
+      "ss_127d31927783790c04677e9fff1b8dd5a44a379a.jpg",
+      "ss_89a6ac7d57b803cafec1deaee29989d09202013a.jpg",
+      "ss_24da04fb6fc628e95c9accdf394aeed920d49997.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 0,
+    "added": 1710237594,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 860,
+    "tags": [
+      "Turn-Based Tactics",
+      "Party-Based RPG",
+      "Tactical RPG",
+      "CRPG",
+      "Turn-Based Strategy"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "mac": 1,
+    "rss": "https://steamcommunity.com/games/1330000/rss",
+    "requestName": "stolen-realm",
+    "productId": "97307",
+    "price": 19.44,
+    "url": "https://www.g2a.com/en-gb/stolen-realm-pc-steam-key-global-i10000271987002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=edf91eb1-a8dd-4e45-8850-75953fb876c4"
+  },
+  {
+    "key": "1527950",
+    "name": "Wartales",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1527950/header_292x136.jpg?t=1704710805",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "21,451",
+    "reviews_percent": 91,
+    "release_date": "1681306892",
+    "release_string": "Apr 12, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 539061,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_b2d1fccd2f5aae1aa63179dc57dcde872a2de3ee.jpg",
+      "ss_5e4b7721b9a9b79296f10a7904939a47494a26de.jpg",
+      "ss_e027d07ac4700d7e5a799af8ebcd1ddd130248a6.jpg",
+      "ss_39ade4f041a7ce00bf48f781b013baf5a5db3dbe.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 2,
+    "added": 1657099168,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 815,
+    "tags": [
+      "RPG",
+      "Open World",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Medieval"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1527950/rss",
+    "requestName": "wartales",
+    "productId": "84981",
+    "price": 29.74,
+    "url": "https://www.g2a.com/fr-fr/wartales-pc-steam-gift-europe-i10000279633006?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=39ba1e2f-ceea-4f37-ab90-9ada6856e984"
+  },
+  {
+    "key": "1105670",
+    "name": "The Last Spell",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1105670/header_292x136.jpg?t=1711028141",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "9,433",
+    "reviews_percent": 92,
+    "release_date": "1678374058",
+    "release_string": "Mar 9, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 373489,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_f9f2f753294fdbbbe637e8b3060fd3272ed13d37.jpg",
+      "ss_9345e9879dbc6e4804d3d29566686c272b76de1e.jpg",
+      "ss_96706c0e921c4211a898e09736f493b6012cc99c.jpg",
+      "ss_63ef85b1f4103dfc4416f98cbaa5b19839496d4c.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 3,
+    "added": 1666119757,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 950,
+    "tags": [
+      "Tactical",
+      "2D",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Strategy RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1105670/rss",
+    "requestName": "the-last-spell",
+    "productId": "48637",
+    "price": 27.62,
+    "url": "https://www.g2a.com/en-gb/the-last-spell-pc-steam-gift-global-i10000253996004?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=95095851-9310-49a3-a400-f6fd9370c27f"
+  },
+  {
+    "key": "867210",
+    "name": "Songs of Conquest",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/867210/header_292x136.jpg?t=1702542770",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "5,893",
+    "reviews_percent": 87,
+    "release_date": "1652198286",
+    "release_string": "May 10, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+    "subs": [
+      {
+        "packageid": 273574,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_c49de4ae16edf3a579dae10f7a90aff3f07be269.jpg",
+      "ss_2e2a3e57ea7f38b2741a5d2538cc966397fb10c5.jpg",
+      "ss_9f9a4952fe2b4d7a5b835565676fd66dbc367c9c.jpg",
+      "ss_2e0dfac49b09d0bd4c052660942602d71bf7227a.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 4,
+    "added": 1657099192,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/867210/page_bg_generated_v6b.jpg?t=1702542770",
+    "rank": 943,
+    "tags": [
+      "4X",
+      "Retro",
+      "Strategy",
+      "Turn-Based Strategy",
+      "Fantasy"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "early_access": 1,
+    "win": 1,
+    "mac": 1,
+    "rss": "https://steamcommunity.com/games/867210/rss",
+    "requestName": "songs-of-conquest",
+    "productId": "29228",
+    "price": 16.67,
+    "url": "https://www.g2a.com/fr-fr/songs-of-conquest-pc-steam-key-global-i10000279760002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=a5f48bad-6357-4351-b904-b7217ab7dfab"
+  },
+  {
+    "key": "1159090",
+    "name": "Zoria: Age of Shattering",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1159090/header_292x136.jpg?t=1710426945",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "150",
+    "reviews_percent": 75,
+    "release_date": "1709834454",
+    "release_string": "Mar 7",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 395368,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_6c56be5643e265101423e05124d1fd24244fb3ca.jpg",
+      "ss_f0a803b9433a28f4cb0eaae88d4c5b64371e6c04.jpg",
+      "ss_3cc31e2a6cad791a0f7711f46595dd14eec8cb2a.jpg",
+      "ss_e9573f50408559bce7ac9b32945ac7980736d0c8.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 5,
+    "added": 1666119802,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 969,
+    "tags": [
+      "Tactical RPG",
+      "Exploration",
+      "Turn-Based Combat",
+      "Dungeon Crawler",
+      "Character Customization"
+    ],
+    "is_free_game": false,
+    "deck_compat": 0,
+    "win": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/1159090/rss",
+    "requestName": "zoria-age-of-shattering",
+    "productId": "80254",
+    "price": 18.88,
+    "url": "https://www.g2a.com/en/zoria-age-of-shattering-pc-steam-key-global-i10000504229001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=56967975-e784-4912-8a6d-27dccd6d4e3e"
+  },
+  {
+    "key": "1155330",
+    "name": "Showgunners",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1155330/header_292x136.jpg?t=1698231933",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "895",
+    "reviews_percent": 94,
+    "release_date": "1683046021",
+    "release_string": "May 2, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 393974,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_342b7913c58e734b1f2ba99620817b86087fb6d2.jpg",
+      "ss_1b2ef6f51863f2a06ab181bc9d4cb59e4729ff9e.jpg",
+      "ss_03eff32cc8220c545731991ae9ebd5655144c1ee.jpg",
+      "ss_6e8f1a637ecd743b837bf37de678e1c0733db239.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 6,
+    "added": 1665470265,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 964,
+    "tags": [
+      "Turn-Based Tactics",
+      "Turn-Based Combat",
+      "1990's",
+      "Turn-Based Strategy",
+      "Dystopian "
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1155330/rss",
+    "requestName": "showgunners",
+    "productId": "135632",
+    "price": 17.32,
+    "url": "https://www.g2a.com/en/showgunners-pc-steam-key-global-i10000339279001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=95d12655-142d-4ac0-8fee-8fd66823dc6a"
+  },
+  {
+    "key": "699330",
+    "name": "The Iron Oath",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/699330/header_292x136.jpg?t=1710808730",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "608",
+    "reviews_percent": 79,
+    "release_date": "1698939131",
+    "release_string": "Nov 2, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+    "subs": [
+      {
+        "packageid": 201196,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_419d38fa019823fba686b3a5030a9477b8fe59f2.jpg",
+      "ss_afb7ebcde36972e8ead4d96e5c3808ec5ea51833.jpg",
+      "ss_e95e4b38be50351e78c58c6130aa0b0663b16631.jpg",
+      "ss_c3b6cc8fdb79e2f10d6dc7b1147ab1d9bfc43af8.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 8,
+    "added": 1666119771,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 983,
+    "tags": [
+      "RPG",
+      "Turn-Based Combat",
+      "Tactical RPG",
+      "Strategy",
+      "Party-Based RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "mac": 1,
+    "rss": "https://steamcommunity.com/games/699330/rss",
+    "requestName": "the-iron-oath",
+    "productId": "55450",
+    "price": 10.41,
+    "url": "https://www.g2a.com/fr-fr/the-iron-oath-pc-steam-key-global-i10000325992002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=0ad94acc-8477-4aa8-a32c-ad9fcb2bd87a"
+  },
+  {
+    "key": "1669000",
+    "name": "Age of Wonders 4",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669000/header_292x136_alt_assets_1.jpg?t=1709107836",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "9,933",
+    "reviews_percent": 81,
+    "release_date": "1683043080",
+    "release_string": "May 2, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 593424,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_6722c1eb0a4162a1bf7f3e4d200595f8e895b780.jpg",
+      "ss_d13bee13beac1334f6b3bf9402ac7374430acffe.jpg",
+      "ss_1d4252f775dc321e66184f300f4be519f977ab92.jpg",
+      "ss_5a3041724bcebaacf938f9282d8679ffed449a32.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 9,
+    "added": 1674218849,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 546,
+    "tags": [
+      "Strategy",
+      "4X",
+      "Character Customization",
+      "Choices Matter",
+      "RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1669000/rss",
+    "requestName": "age-of-wonders-4",
+    "productId": "130742",
+    "price": 29.72,
+    "url": "https://www.g2a.com/en/age-of-wonders-4-pc-steam-key-europe-i10000338606002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=bc082f59-8cb6-4f35-baec-20f2df109e53"
+  },
+  {
+    "key": "1201540",
+    "name": "HELLCARD",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1201540/header_292x136.jpg?t=1709752464",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "1,858",
+    "reviews_percent": 84,
+    "release_date": "1512654540",
+    "release_string": "Dec 7, 2017",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 414691,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_75003244128ad67814c1e92715ee3177759d250e.jpg",
+      "ss_b8eb3fa4e1958a7089b61a5dbe03876fc800e9d6.jpg",
+      "ss_73e70cc830fca6ac4ff360b03547b9cf07de509d.jpg",
+      "ss_a68406edd66684efd2b4b7cc9a1e7bb4bd5d9ca6.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 10,
+    "added": 1666119729,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 918,
+    "tags": [
+      "Roguelike",
+      "Co-op",
+      "Card Battler",
+      "RPG",
+      "Roguelite"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1201540/rss",
+    "requestName": "hellcard",
+    "productId": "88640",
+    "price": 9.94,
+    "url": "https://www.g2a.com/en/hellcard-pc-steam-key-global-i10000338308001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=6cf6114f-61b6-47e1-8140-504e159c33c9"
+  },
+  {
+    "key": "981430",
+    "name": "Gordian Quest",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/header_292x136.jpg?t=1708495844",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "4,757",
+    "reviews_percent": 90,
+    "release_date": "1656003600",
+    "release_string": "Jun 23, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 322872,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_d97ae8ff9147976de8f085910faf4bf4e8da76f5.jpg",
+      "ss_bec25d8990a163306fb50b5c0b5f8f3669942149.jpg",
+      "ss_94d0eda52562363d4f697409e959b5be83c2c948.jpg",
+      "ss_7c2857dcc471a2ca903eeeb8778d42250fcc1d60.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 11,
+    "added": 1671830242,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 966,
+    "tags": [
+      "RPG",
+      "Card Game",
+      "Card Battler",
+      "2D",
+      "Strategy"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/981430/rss",
+    "requestName": "gordian-quest",
+    "productId": "34618",
+    "price": 6.49,
+    "url": "https://www.g2a.com/gordian-quest-steam-key-global-i10000194138001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=1c800bb1-377f-40fc-9396-05c59c952308"
+  },
+  {
+    "key": "1656780",
+    "name": "Hero's Hour",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1656780/header_292x136.jpg?t=1706893658",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "3,765",
+    "reviews_percent": 80,
+    "release_date": "1646156954",
+    "release_string": "Mar 1, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 588746,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1799\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$17.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1799"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_67da137ae5fc924fcc6b236cf14353234246074a.jpg",
+      "ss_f2e8dd9ec4614a111aa453220e0875c4adb0a638.jpg",
+      "ss_c800af50b390b5ef4b608e4cbc8449ce22c56297.jpg",
+      "ss_8681ad5ae875b203e950513aba7b5074e2e7fca7.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 12,
+    "added": 1657099145,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 928,
+    "tags": [
+      "Turn-Based",
+      "Pixel Graphics",
+      "Strategy",
+      "Singleplayer",
+      "Turn-Based Strategy"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1656780/rss",
+    "requestName": "heros-hour",
+    "productId": "104326",
+    "price": 1.06,
+    "url": "https://www.g2a.com/fr-fr/heros-hour-pc-steam-key-row-i10000305571013?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=8bfa1ff2-29d9-43e9-ab88-a7914eee595c"
+  },
+  {
+    "key": "882100",
+    "name": "XCOM®: Chimera Squad",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/882100/header_292x136.jpg?t=1603903072",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "19,145",
+    "reviews_percent": 72,
+    "release_date": "1587700800",
+    "release_string": "Apr 23, 2020",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 280164,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_05da9ecfa48f79eaf04f1efa02043130c81d2b52.jpg",
+      "ss_29e66f5367aa6f42db117bf1bd13ef3167ee6be1.jpg",
+      "ss_85c538c08dbc74a109dd13f47e14a9678146b1e2.jpg",
+      "ss_73be46336d1c23bacf5cd347ed8743b456c96ff7.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 13,
+    "added": 1669921113,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/882100/page_bg_generated_v6b.jpg?t=1603903072",
+    "rank": 974,
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Aliens"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/882100/rss",
+    "requestName": "xcom-chimera-squad",
+    "productId": "35804",
+    "price": 1.82,
+    "url": "https://www.g2a.com/xcom-chimera-squad-pc-steam-key-global-i10000195005012?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=1993f6c3-8d9b-4362-bb52-997120d13646"
+  },
+  {
+    "key": "1157390",
+    "name": "King Arthur: Knight's Tale",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1157390/header_292x136.jpg?t=1710228497",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "5,149",
+    "reviews_percent": 84,
+    "release_date": "1650992400",
+    "release_string": "Apr 26, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 394728,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$44.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_f650a370895f8dfb553a9eac8795e4bc47e3b54c.jpg",
+      "ss_211af5d0e42d65833942cf02fd2008d79a5be59b.jpg",
+      "ss_3e534beafe20fccb77510668d023f7ceca62989f.jpg",
+      "ss_14d8addd63b9de25e07bc399e55fa9cff616bb8b.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 14,
+    "added": 1666120176,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 936,
+    "tags": [
+      "Tactical RPG",
+      "Turn-Based Tactics",
+      "Dark Fantasy",
+      "RPG",
+      "Turn-Based Combat"
+    ],
+    "is_free_game": false,
+    "deck_compat": "1",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1157390/rss",
+    "requestName": "king-arthur-knights-tale",
+    "productId": "62170",
+    "price": 18.9,
+    "url": "https://www.g2a.com/en/king-arthur-knights-tale-pc-steam-key-global-i10000233106002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=a3393c31-23e2-4944-8b2f-26cd353008ec"
+  },
+  {
+    "key": "1199030",
+    "name": "Tainted Grail: Conquest",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1199030/header_292x136.jpg?t=1699640496",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "6,351",
+    "reviews_percent": 91,
+    "release_date": "1622123803",
+    "release_string": "May 27, 2021",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 522046,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_338a18da2f82060ab2e22adf11cfd0395209fb2a.jpg",
+      "ss_91b71f32034edac8913efddbc0b5728f213caf23.jpg",
+      "ss_c41122cf08b832301a904a0655e087f812b8e47b.jpg",
+      "ss_85393833dcb09e4fb9fa11562bc660b7be394c27.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 15,
+    "added": 1668250546,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 972,
+    "tags": [
+      "Deckbuilding",
+      "Dark Fantasy",
+      "Card Game",
+      "Roguelike",
+      "Story Rich"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/1199030/rss",
+    "requestName": "tainted-grail-conquest",
+    "productId": "61602",
+    "price": 4.68,
+    "url": "https://www.g2a.com/en/tainted-grail-conquest-pc-steam-key-global-i10000196179003?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=c08c17e7-3b28-406a-9df0-ac5602dc525e"
+  },
+  {
+    "key": "1096530",
+    "name": "Solasta: Crown of the Magister",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1096530/header_292x136.jpg?t=1701877439",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "16,380",
+    "reviews_percent": 88,
+    "release_date": "1622126911",
+    "release_string": "May 27, 2021",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+    "subs": [
+      {
+        "packageid": 369680,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_34aa096640c07f9081de758a566d7c3dedaaae08.jpg",
+      "ss_87c2ce426073e4846ea92a7a5b441d158d3961df.jpg",
+      "ss_e576236ea0ffd8f13e8750f0757bd77c12622bca.jpg",
+      "ss_d3bbee08b66899caf2a8f3517e77676a146101fe.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 16,
+    "added": 1657099205,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 886,
+    "tags": [
+      "Co-op Campaign",
+      "Isometric",
+      "Multiplayer",
+      "RPG",
+      "Character Customization"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "mac": 1,
+    "rss": "https://steamcommunity.com/games/1096530/rss",
+    "requestName": "solasta-crown-of-the-magister",
+    "productId": "56714",
+    "price": 8.53,
+    "url": "https://www.g2a.com/en/solasta-crown-of-the-magister-pc-steam-key-global-i10000218109001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=eec754cb-c952-404b-8434-7c6418eba23d"
+  },
+  {
+    "key": "368260",
+    "name": "Marvel's Midnight Suns",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/header_292x136.jpg?t=1702946042",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "11,967",
+    "reviews_percent": 82,
+    "release_date": "1669957312",
+    "release_string": "Dec 1, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 799856,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"5999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99</div></div></div>",
+        "discount_pct": null,
+        "price": "5999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_c0f0441356bbad5922c0f0c91ba0798762f3fc5d.jpg",
+      "ss_b51816bfef37944e1d0973c62ee4441dd43ed23f.jpg",
+      "ss_54800f81215b8494ea5eea0367e29394a628cecf.jpg",
+      "ss_25d7501c1db6998ce4398aa9be4e0bf71f77d402.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 17,
+    "added": 1669921208,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 766,
+    "tags": [
+      "Superhero",
+      "Turn-Based Tactics",
+      "Deckbuilding",
+      "Tactical RPG",
+      "Turn-Based Strategy"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/368260/rss",
+    "requestName": "marvels-midnight-suns",
+    "productId": "93100",
+    "price": 7.48,
+    "url": "https://www.g2a.com/fr-fr/marvels-midnight-suns-pc-steam-key-europe-i10000266269003?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=7badaab7-661e-48e0-8ee8-bf1ea4e2e5fa"
+  },
+  {
+    "key": "1229240",
+    "name": "Chained Echoes",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/header_292x136.jpg?t=1688714230",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "5,196",
+    "reviews_percent": 91,
+    "release_date": "1670504335",
+    "release_string": "Dec 8, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 426186,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$24.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_b25ed2e671e7b616ec14e7ed3a2f483909e368c4.jpg",
+      "ss_b350a5ee81b0eff7c044c99b2d809489d35a665c.jpg",
+      "ss_cfba4c66d14e860d381374d252381f7469f39582.jpg",
+      "ss_02152fa16493a1fe30ce307864c7b2d6f82daede.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 18,
+    "added": 1670515138,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 874,
+    "tags": [
+      "RPG",
+      "Indie",
+      "Pixel Graphics",
+      "Turn-Based",
+      "JRPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "mac": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/1229240/rss",
+    "requestName": "chained-echoes",
+    "productId": "48634",
+    "price": 21.24,
+    "url": "https://www.g2a.com/en/chained-echoes-pc-steam-gift-europe-i10000337632004?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=cdbc594c-acc4-4625-bf16-fd541b73af13"
+  },
+  {
+    "key": "1139980",
+    "name": "Travellers Rest",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1139980/header_292x136_alt_assets_0.jpg?t=1710013994",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "8,216",
+    "reviews_percent": 90,
+    "release_date": "1595951905",
+    "release_string": "Jul 28, 2020",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 387838,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1799\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$17.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1799"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_bc89e86af82c659884c0b1e85a2760c8a334724d.jpg",
+      "ss_440b687701b6996a486cb800ebdf21d1fa2e77f8.jpg",
+      "ss_0d117e842b207d9170b99317615fef1b85efa752.jpg",
+      "ss_d8ed1e680d4604d9f7dfffa945925cef73cf236b.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 19,
+    "added": 1674995657,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 897,
+    "tags": [
+      "Life Sim",
+      "Pixel Graphics",
+      "Farming Sim",
+      "Management",
+      "RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "early_access": 1,
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1139980/rss",
+    "requestName": "travellers-rest",
+    "productId": "35057",
+    "price": 12.9,
+    "url": "https://www.g2a.com/fr-fr/travellers-rest-pc-steam-key-global-i10000206676003?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=da6a6563-6dad-42d9-a3e2-73543521c09d"
+  },
+  {
+    "key": "1091500",
+    "name": "Cyberpunk 2077",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header_292x136.jpg?t=1706698946",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "639,447",
+    "reviews_percent": 83,
+    "release_date": "1607558400",
+    "release_string": "Dec 9, 2020",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 367653,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"5999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$59.99</div></div></div>",
+        "discount_pct": null,
+        "price": "5999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.jpg",
+      "ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.jpg",
+      "ss_9284d1c5b248726760233a933dbb83757d7d5d95.jpg",
+      "ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 21,
+    "added": 1683449624,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 116,
+    "tags": [
+      "Cyberpunk",
+      "Open World",
+      "Nudity",
+      "RPG",
+      "Singleplayer"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1091500/rss",
+    "requestName": "cyberpunk-2077",
+    "productId": "10539",
+    "price": 57.83,
+    "url": "https://www.g2a.com/cyberpunk-2077-steam-gift-europe-i10000156543005?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=c6dcd00d-524b-4b61-8310-9c1091b5f26a"
+  },
+  {
+    "key": "1485590",
+    "name": "ENDLESS™ Dungeon",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1485590/header_292x136.jpg?t=1710866392",
+    "review_score": 5,
+    "review_desc": "Mixed",
+    "reviews_total": "2,365",
+    "reviews_percent": 66,
+    "release_date": "1697724240",
+    "release_string": "Oct 19, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 953652,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_dadabe2ab9369e8cc263cb9d2341f3e53c0e0c3d.jpg",
+      "ss_f0c8fe53f558a951ff998d3e78cd7942784a2a7f.jpg",
+      "ss_7182114b3235fee8eb7840b6e98bcd922e25575e.jpg",
+      "ss_a43cd7b3d302dadddfadff750b76032fbdaaafc6.jpg"
+    ],
+    "review_css": "mixed",
+    "priority": 22,
+    "added": 1682078839,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 902,
+    "tags": [
+      "Action",
+      "Roguelike",
+      "Tower Defense",
+      "Strategy",
+      "Action RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1485590/rss",
+    "requestName": "endless-dungeon",
+    "productId": "63077",
+    "price": 15.54,
+    "url": "https://www.g2a.com/en/endless-dungeon-pc-steam-key-europe-i10000337944003?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=58c8541d-7b72-43f5-abf3-73bb011f68bd"
+  },
+  {
+    "key": "1940340",
+    "name": "Darkest Dungeon® II",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1940340/header_292x136.jpg?t=1708037265",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "13,433",
+    "reviews_percent": 76,
+    "release_date": "1683560828",
+    "release_string": "May 8, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 699070,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$39.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_acd789e900178cd04cc6e33ab6a60701426d63ba.jpg",
+      "ss_1b10095cae3b0aa56bc01681e497d8912cd9e380.jpg",
+      "ss_dca2b1c43c19ae353b8469cad68955227045390a.jpg",
+      "ss_65df03cfe068e1a0cefe7df453e2a9bbda7ee30b.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 26,
+    "added": 1683638766,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 819,
+    "tags": [
+      "Turn-Based Tactics",
+      "Roguelite",
+      "Dark Fantasy",
+      "Dungeon Crawler",
+      "Lovecraftian"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1940340/rss",
+    "requestName": "darkest-dungeon-2",
+    "productId": "56866",
+    "price": 18.26,
+    "url": "https://www.g2a.com/en/darkest-dungeon-ii-pc-steam-key-global-i10000219127001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=4785eb0e-800e-4c1b-a907-10da4df26329"
+  },
+  {
+    "key": "599140",
+    "name": "Graveyard Keeper",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/header_292x136.jpg?t=1690979259",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "30,680",
+    "reviews_percent": 87,
+    "release_date": "1534346114",
+    "release_string": "Aug 15, 2018",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 157309,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_9533ec3b7abd3300e9873dcd0d2bd5794a8fe54b.jpg",
+      "ss_13f5648759859d6e681200be67581ca3cc4aecda.jpg",
+      "ss_2edf1779ad9992da1ae8f0f982a80f8945506154.jpg",
+      "ss_a929a220c5acd0ed33e47eda1448fcd2347dd718.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 27,
+    "added": 1689228346,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/page_bg_generated_v6b.jpg?t=1702946042",
+    "rank": 866,
+    "tags": [
+      "Pixel Graphics",
+      "Crafting",
+      "RPG",
+      "Simulation",
+      "Sandbox"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "win": 1,
+    "mac": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/599140/rss",
+    "requestName": "graveyard-keeper",
+    "productId": "24579",
+    "price": 3.23,
+    "url": "https://www.g2a.com/graveyard-keeper-steam-key-global-i10000170308001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=899d0b57-7d54-462c-b317-f4c9495eb48a"
+  },
+  {
+    "key": "1016920",
+    "name": "Unrailed!",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1016920/header_292x136.jpg?t=1709756328",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "11,879",
+    "reviews_percent": 94,
+    "release_date": "1600880411",
+    "release_string": "Sep 23, 2020",
+    "platform_icons": "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+    "subs": [
+      {
+        "packageid": 337058,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_718c17d9145a8f11eb99de457d513fc79bd82979.jpg",
+      "ss_60264335a97af2987159e787635f39cb9f19f648.jpg",
+      "ss_8496602ef1f242770f079665740f542aaa4eb638.jpg",
+      "ss_71511b260173d62f1fbc43b56b97611335f08c60.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 28,
+    "added": 1700470040,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 936,
+    "tags": [
+      "Multiplayer",
+      "Co-op",
+      "Online Co-Op",
+      "Local Co-Op",
+      "Casual"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "mac": 1,
+    "linux": 1,
+    "rss": "https://steamcommunity.com/games/1016920/rss",
+    "requestName": "unrailed",
+    "productId": "29819",
+    "price": 4.51,
+    "url": "https://www.g2a.com/unrailed-steam-key-europe-i10000190515004?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=88b1f3b6-f550-496f-8608-344eb5d31221"
+  },
+  {
+    "key": "1062810",
+    "name": "Inkbound",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062810/header_292x136.jpg?t=1698680397",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "1,994",
+    "reviews_percent": 91,
+    "release_date": "1684773184",
+    "release_string": "May 22, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 355420,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$29.99</div></div></div>",
+        "discount_pct": null,
+        "price": "2999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_e77b5cf47604e436aca80fc7e06f716387be0743.jpg",
+      "ss_3de3a6ae2531ea068f2d26213bfe4352c8d4495c.jpg",
+      "ss_1e2002f96a4f814f36ace772fb62523b9ea17a25.jpg",
+      "ss_446a8e540ff8cb714d67752bd2fdb3e2d303b85f.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 29,
+    "added": 1700386982,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 954,
+    "tags": [
+      "Tactical RPG",
+      "Turn-Based Tactics",
+      "Roguelite",
+      "PvE",
+      "Strategy RPG"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "early_access": 1,
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1062810/rss",
+    "requestName": "inkbound",
+    "productId": "114229",
+    "price": 18.99,
+    "url": "https://www.g2a.com/en/inkbound-pc-steam-key-global-i10000339477001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=916161f4-05d5-4bb8-bb6d-d144a6a090db"
+  },
+  {
+    "key": "1123770",
+    "name": "Curse of the Dead Gods",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1123770/header_292x136.jpg?t=1695819473",
+    "review_score": 8,
+    "review_desc": "Very Positive",
+    "reviews_total": "6,501",
+    "reviews_percent": 85,
+    "release_date": "1614099488",
+    "release_string": "Feb 23, 2021",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 381439,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"1999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$19.99</div></div></div>",
+        "discount_pct": null,
+        "price": "1999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_855348f3239b58910b8e8a26be36f37e17dd82b3.jpg",
+      "ss_1f9eec462da56aa29185a66accd8c3e5693a09a1.jpg",
+      "ss_8c74d954e6e9492b160dc18b5f91b13e37ad9ddb.jpg",
+      "ss_d106fc8a04f493335efb18d3fe8c53cb77cd3ba4.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 30,
+    "added": 1698113903,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 968,
+    "tags": [
+      "Action Roguelike",
+      "Isometric",
+      "Dark Fantasy",
+      "Difficult",
+      "Action"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1123770/rss",
+    "requestName": "curse-of-the-dead-gods",
+    "productId": "32074",
+    "price": 3.33,
+    "url": "https://www.g2a.com/curse-of-the-dead-gods-steam-key-global-i10000193796001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=215de5a0-6662-4cf2-a99a-bea759658543"
+  },
+  {
+    "key": "1167750",
+    "name": "The Lamplighters League",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1167750/header_292x136.jpg?t=1707725146",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "362",
+    "reviews_percent": 70,
+    "release_date": "1696348724",
+    "release_string": "Oct 3, 2023",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 399011,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$49.99</div></div></div>",
+        "discount_pct": null,
+        "price": "4999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_a5ff5622c62103560f6a9250acd92e8667628d7d.jpg",
+      "ss_adacdf927d62d14e6f19995b31aad1bc3555b2bc.jpg",
+      "ss_e5f3a62699fed099cec5a07fd5707f9e69f27189.jpg",
+      "ss_f7dc84201ff2c524406907e06fb7f38c4edea14c.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 31,
+    "added": 1698113612,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 957,
+    "tags": [
+      "Story Rich",
+      "Adventure",
+      "RPG",
+      "Strategy",
+      "Choices Matter"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1167750/rss",
+    "requestName": "the-lamplighters-league",
+    "productId": "134076",
+    "price": 32.88,
+    "url": "https://www.g2a.com/en/the-lamplighters-league-pc-steam-key-europe-i10000500114002?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=9faae72d-d512-465e-b91b-6ede2eaff40e"
+  },
+  {
+    "key": "1064120",
+    "name": "Unforetold: Witchstone",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1064120/header_292x136.jpg?t=1709757682",
+    "review_score": 5,
+    "review_desc": "Mixed",
+    "reviews_total": "91",
+    "reviews_percent": 42,
+    "release_date": "1706202066",
+    "release_string": "Jan 25",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 355975,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"999\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$9.99</div></div></div>",
+        "discount_pct": null,
+        "price": "999"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_f0e7db30290fe7768b3d48b259da41ccabbb9f26.jpg",
+      "ss_7e517beb4ddb7659d247c457638ed2ebb26a60c2.jpg",
+      "ss_94931e3358eba41dd91f51ed1511b2394a63e198.jpg",
+      "ss_9b435150630b621dd21cb71aaa32749a71711210.jpg"
+    ],
+    "review_css": "mixed",
+    "priority": 32,
+    "added": 1704557861,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 993,
+    "tags": [
+      "Early Access",
+      "CRPG",
+      "Tabletop",
+      "Choices Matter",
+      "Choose Your Own Adventure"
+    ],
+    "is_free_game": false,
+    "deck_compat": "2",
+    "early_access": 1,
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1064120/rss",
+    "requestName": "unforetold-witchstone",
+    "productId": "154117",
+    "price": 7.14,
+    "url": "https://www.g2a.com/en/unforetold-witchstone-pc-steam-key-global-i10000503282001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=dae6bd15-6ff5-435f-88de-5f260a54bd45"
+  },
+  {
+    "key": "1580520",
+    "name": "Lost Eidolons",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1580520/header_292x136.jpg?t=1709606509",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "1,263",
+    "reviews_percent": 73,
+    "release_date": "1665672423",
+    "release_string": "Oct 13, 2022",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 559122,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large\" data-price-final=\"2099\" data-bundlediscount=\"0\" data-discount=\"40\"><div class=\"discount_pct\">-40%</div><div class=\"discount_prices\"><div class=\"discount_original_price\">$34.99</div><div class=\"discount_final_price\">$20.99</div></div></div>",
+        "discount_pct": 40,
+        "price": "2099"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_58c8d071c68d5a0ccddb75241fcf9dc2c3e0053a.jpg",
+      "ss_23d0f8deb1a433af282a36f33797c2f36a64bc99.jpg",
+      "ss_992eda69b3c324624867684a75354eb53afda647.jpg",
+      "ss_0c90d3f0f64be106324bee83a5d9e3d3cb91c996.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 35,
+    "added": 1706536273,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 961,
+    "tags": [
+      "Story Rich",
+      "Turn-Based Strategy",
+      "RPG",
+      "Tactical",
+      "Turn-Based Combat"
+    ],
+    "is_free_game": false,
+    "deck_compat": "3",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1580520/rss",
+    "requestName": "lost-eidolons",
+    "productId": "75826",
+    "price": 12.2,
+    "url": "https://www.g2a.com/fr-fr/lost-eidolons-pc-steam-key-global-i10000337113001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=b1424e6c-ea51-40d5-8ecc-677753b3df35"
+  },
+  {
+    "key": "1684350",
+    "name": "The Thaumaturge",
+    "capsule": "https://cdn.cloudflare.steamstatic.com/steam/apps/1684350/header_292x136.jpg?t=1710758088",
+    "review_score": 6,
+    "review_desc": "Mostly Positive",
+    "reviews_total": "1,013",
+    "reviews_percent": 78,
+    "release_date": "1709575226",
+    "release_string": "Mar 4",
+    "platform_icons": "<span class=\"platform_img win\"></span>",
+    "subs": [
+      {
+        "packageid": 599495,
+        "bundleid": null,
+        "discount_block": "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3499\" data-bundlediscount=\"0\" data-discount=\"0\"><div class=\"discount_prices\"><div class=\"discount_final_price\">$34.99</div></div></div>",
+        "discount_pct": null,
+        "price": "3499"
+      }
+    ],
+    "type": "Game",
+    "screenshots": [
+      "ss_ab0d1a580336f11a060c79f238bf74cc1f09d8a5.jpg",
+      "ss_c900378ea9632289d6ab88b69b4165b80f02766a.jpg",
+      "ss_ef43b30f94ebaec86460233a5901f976141bb9be.jpg",
+      "ss_9525f49a8e2045889ec80bf1191ce838e00c15cf.jpg"
+    ],
+    "review_css": "positive",
+    "priority": 36,
+    "added": 1704652474,
+    "background": "https://cdn.cloudflare.steamstatic.com/steam/apps/981430/page_bg_generated_v6b.jpg?t=1708495844",
+    "rank": 887,
+    "tags": [
+      "RPG",
+      "Choices Matter",
+      "Turn-Based Combat",
+      "Demons",
+      "Dark"
+    ],
+    "is_free_game": false,
+    "deck_compat": "1",
+    "win": 1,
+    "rss": "https://steamcommunity.com/games/1684350/rss",
+    "requestName": "the-thaumaturge",
+    "productId": "133750",
+    "price": 25.76,
+    "url": "https://www.g2a.com/en/the-thaumaturge-pc-steam-key-global-i10000503081001?___currency=EUR&adid=allkeyshop.com&gtag=dccb1b16c9&utm_campaign=COM_GLOBAL_PB_DIGI_GAM_LISTING_NOR_allkeyshop&utm_medium=price_comparison&utm_source=allkeyshop&uuid=cf24381f-4212-4565-8f5b-82c8a501d0e8"
+  }
+]
